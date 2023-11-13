@@ -1,1 +1,4 @@
-alert("Bem vindo a esta página, eu sou um alert, e você pode me excluir se desejar!")
+Const aplausos=document.querySelector
+(“#som_tecla_aplausos”;
+Function tocaSom(aplausos){alert(aplausos);}
+tocaSom(“clap,clap,clap”);
