@@ -1,6 +1,6 @@
-Const aplausos=document.querySelector
+const aplausos=document.querySelector
 (“#som_tecla_aplausos”);
-Function tocaSom(aplausos){alert(aplausos);}
+function tocaSom(aplausos){alert(aplausos);}
 tocaSom(“clap,clap,clap”);
 
 let comando= “tocar”
