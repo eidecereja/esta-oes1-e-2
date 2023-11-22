@@ -16,3 +16,10 @@ else{
     alert("O áudio não está pronto");
 
 }
+const buttons = document.querySelectorAll("button");
+
+let contador =0;
+while(contador<buttons.length){
+    buttons[contador].textContent = contador;
+    contador = cotador+1;
+}
