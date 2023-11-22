@@ -21,5 +21,5 @@ const buttons = document.querySelectorAll("button");
 let contador =0;
 while(contador<buttons.length){
     buttons[contador].textContent = contador;
-    contador = cotador+1;
+    contador = contador+1;
 }
